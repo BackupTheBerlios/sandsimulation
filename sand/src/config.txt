@@ -1,0 +1,14 @@
+resx=800
+resy=600
+bits=24
+fullscreen=0
+Orthogonal=1
+ScreenSize=0.6
+CenterX=0.0
+CenterY=0.0
+TimeIntervall=10
+datapath=/
+execname=sandkasten
+umgebung=umgebung.bmp
+sandkoerner=30000
+AppName=Sandkasten

@@ -1,0 +1,50 @@
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filenumbers]
+0=23
+1=18
+2=123
+3=91
+4=7
+5=58
+6=4
+7=1
+8=98
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+
+[filelist]
+0=/home/chrikle/Projects/test1/src/cgraphic.h
+1=/home/chrikle/Projects/test1/src/cSand.h
+2=/home/chrikle/Projects/test1/src/cSand.cpp
+3=/home/chrikle/Projects/test1/src/main.cpp
+
+[Project Tree]
+0=0
+1=0:0
+
+[Symbol Tree]
+0=1
+1=1:5
+
+[File Tree]
+0=0
